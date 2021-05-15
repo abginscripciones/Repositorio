@@ -1,3 +1,2 @@
 # Repositorio
-
-[Examen sistemas informaticos](Examen sistemas informaticos.pdf)
+Examen sistemas informaticos.pdf
